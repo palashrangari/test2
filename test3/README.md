@@ -68,6 +68,7 @@ Global Tool Configuration Steps:
 
     1) From dashboard, go to Manage Jenkins -> Global Tool Configuration. 
     2) Refer the images below to do configuration for Maven and JDK. 
+    
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
